@@ -138,10 +138,3 @@ Beyond the obvious of getting the current state working I have the following ide
 # Code quality
 
 This is just for demonstration purposes only, with a fully working example I shall refactor everything and remove the monolithic monstrosities. I did make a strong attempt to ensure that the teensy code is self described however and left details of register manipulation where I believed them to be tricky for unfamiliar readers.
-
-# Copyright notice
-
-Copyright Jonathan Kelsey 2021.
-All code distributed with GNU GENERAL PUBLIC LICENSE Version 2.
-The circuit diagram is freely available under MIT license ./images/circuit.png but this is the only file which is under MIT.
-I will definitely consider changing the entire LICENSE to MIT when its working but this is at my discretion.
