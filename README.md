@@ -1,5 +1,5 @@
-# teensy40-bldc
-A BLDC ESC based off Teensy 4.0
+# teensy40-6step-adc-bldc
+A BLDC ESC based off Teensy 4.0 using its ADC for voltage measurements periodically.
 
 # Status quo
 
